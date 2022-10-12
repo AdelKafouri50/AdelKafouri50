@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Adel 👋
+I'm a Freelance Softare Engineer, Top Rated Plus on Upwork.
 
-<!--
-**AdelKafouri50/AdelKafouri50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  My personal [website & blog](adelkafouri.com)
+- 🌱 I’m currently reading: [How Emotions Are Made by Lisa Feldman Barrett](https://www.goodreads.com/book/show/23719305-how-emotions-are-made?ac=1&from_search=true&qid=fCJ64x112b&rank=1)
 
-Here are some ideas to get you started:
+## My Interests & Hobbies
+👨‍💻 Coding -Duh-
+📖 Reading
+🍳 Cooking
+🚴 Cycling
+🧠 Neuroscience 
+🤔 Psychology & Behavioral Economics
+👩‍👩‍👧‍👦 Community Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me at
+
+- [Personal Website](https://www.adelkafouri.com/) <br/>
+- [Instagram](https://www.instagram.com/adelkafouri) <br/>
+- [Linkedin](https://www.linkedin.com/in/adel-kafouri-232746193/) <br/>
+
+
