@@ -13,7 +13,7 @@ I'm a Freelance Softare Engineer, 🔝 Top Rated Plus on Upwork ✅.
 - 🤔 Psychology & Behavioral Economics <br/>
 - 👩‍👩‍👧‍👦 Community Building <br/>
 
-## Coonect with me
+## Connect with me
 
 - [Personal Website](https://www.adelkafouri.com/) <br/>
 - [Instagram](https://www.instagram.com/adelkafouri) <br/>
